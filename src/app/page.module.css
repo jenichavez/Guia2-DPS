@@ -1,0 +1,39 @@
+.main {
+  color: #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  background-image: url(https://e1.pxfuel.com/desktop-wallpaper/891/107/desktop-wallpaper-champions-league-stadium-backgrounds-stadium-background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed
+
+}
+  .container__list {
+  list-style-type: none;
+  padding: 0;
+  }
+  .list {
+  margin-bottom: 100px;
+  }
+  .title {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #ccc;
+  }
+  .nameclub {
+  margin: 20px 0px;
+  border: 0;
+  border-top: 5px solid rgb(0, 0, 0);
+
+  }
+
+  .imgplayer {
+    height: 150px;
+    width: 150px;
+  }
+  
